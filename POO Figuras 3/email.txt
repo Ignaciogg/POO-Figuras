@@ -1,0 +1,6 @@
+Juan;Saludo;Hola amigo;2020;
+Maria;Saludo 2;Hola, como estas;2020;
+Antonio;Adiós;Este es el último mensaje;2020;
+sfaf;fasfa;asfasf;2021;
+mario;con amor;ola mario;2021;
+Manolo;Hola majo;Qué tal?;2021;
